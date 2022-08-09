@@ -1,0 +1,5 @@
+{	
+	"table_name"	:["table_source_from_sql","table_destination_to_pg"],
+	"column"		:"date, age, name, address, email",
+	"date_column"	:"date"
+}
